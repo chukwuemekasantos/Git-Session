@@ -1,2 +1,2 @@
-JavaScript is a fun language. It is used for making web pages interactive! 
-Learn JavaScript
+
+Laravel the best language ever
